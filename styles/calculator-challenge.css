@@ -1,0 +1,39 @@
+body{
+  background-color: black;
+  font-family: arial;
+}
+button {
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  cursor: pointer;
+  margin-right: 5px;
+  border: none;
+  font-size: 25px;
+  background-color: purple;
+  color: white;
+}
+.operator-button{
+  background-color:rgb(254, 160, 10) ;
+}
+.clear-button {
+  font-size: 18px;
+  margin-top: 15px;
+}
+.display{
+  color: white;
+  font-size: 50px;
+  margin-top: -50px;
+  margin-bottom: -20px;
+  margin-left: -50px;
+}
+div{
+  margin-top: 15px;
+  position: relative;
+}
+.display-container{
+  padding: 50px;
+  position: relative;
+  margin-bottom: -40px;
+  
+}
